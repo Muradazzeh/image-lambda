@@ -91,4 +91,4 @@ exports.handler = async (event, context, lambdaCallback) => {
 
 
 * this is sample link to the json file created from image 
-[link to json file AWS bucket](./image/Screenshot%20(389).png)
+[link to json file AWS bucket](https://mytest-23.s3.us-west-1.amazonaws.com/pexels-pixabay-207580.json)
